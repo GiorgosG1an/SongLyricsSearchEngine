@@ -1,0 +1,40 @@
+This project incorporates PyLucene, a Python wrapper for the Lucene search engine library (version 8.11.0).
+
+PyLucene is based on the Lucene project, originally created by Doug Cutting and Mike Cafarella.
+Lucene is licensed under the Apache License, Version 2.0.
+
+Acknowledgments for PyLucene:
+
+PyLucene, a JCC-compiled Python extension of Java Lucene, owes its existence to the dedication and contributions of various individuals and open-source projects:
+
+- The Apache Lucene developers: http://lucene.apache.org/java/docs/whoweare.html
+- The Open Source Applications Foundation, for hosting the project from 2004 to 2008: http://www.osafoundation.org
+- Andi Vajda, PyLucene and JCC project founder and maintainer, for envisioning the feasibility of PyLucene
+
+Special thanks to the following individuals for their invaluable contributions, including patches, samples, bug reports, and resources:
+
+- Kapil Thangavelu (hazmat): FSDirectory support, first unit test
+- Frank Wierzbicki: IndexFiles.py and SearchFiles.py samples
+- Andreas Jung: several bug reports
+- Jeff Bowden: bug reports and API additions via patches
+- Wai Yip Tung: test_PyLuceneThread.py unit test, windows threads testing
+- Yura Smolsky: test_Highlighter.py unit test, numerous bug reports
+- Steve Jenson: MultiFieldQueryParser addition to test_PyLucene.py
+- Erik Hatcher: man page index and search samples
+- Bill Janssen: bug reports and 'shared mode' suggestion
+- Aaron Lav: memory leaks fixes with patches and tests
+- Grant Ingersoll: for inviting and sponsoring PyLucene's move to Apache
+
+Thank you to all contributors and supporters for their tireless efforts!
+
+Python Libraries Used:
+
+This project incorporates and utilizes the following Python libraries:
+
+
+- Pandas (version M.N.O)
+  - Authors: Wes McKinney and contributors
+  - License: BSD 3-Clause "New" or "Revised" License
+
+Please refer to the respective documentation and license files of these libraries for detailed information on their authors, licenses, and terms of use.
+
