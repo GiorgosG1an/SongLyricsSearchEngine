@@ -3,7 +3,7 @@
 
 ## Description
 
-This is a search engine built with PyLucene that allows users to search for songs based on the name, artist, and even within the lyrics of the song. It uses an indexed database of songs and albums to provide fast and accurate search results.
+This is a search engine built with [PyLucene](https://lucene.apache.org/pylucene/index.html) that allows users to search for songs based on the name, artist, and even within the lyrics of the song. It uses an indexed database of songs and albums to provide fast and accurate search results.
 ---
 ## Installation
 1. Set up Docker on your computer. You can find a guide in ``IRM_Project1_Report.pdf`` for setting up in linux operating system
