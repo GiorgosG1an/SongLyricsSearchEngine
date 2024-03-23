@@ -28,7 +28,9 @@ python3 main/main.py
 1. Preprocess the data
 2. Index the data
 3. Search songs/albums
+4. Add new songs/albums with input, from a csv or from [AZLyrics](https://www.azlyrics.com/) website
+5. Delete songs/albums
 
 ## License
 The project was created as the first semester project of Information Retrieval and Mining course, at University of Peloponnese dep. Informatics and Telecommunications.
-See [License](License) for more
+See [License](License), [CREDITS](Credits), [User guide](IRM_Project1_Report.pdf) for more
