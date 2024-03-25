@@ -33,4 +33,4 @@ python3 main/main.py
 
 ## License
 The project was created as the first semester project of Information Retrieval and Mining course, at University of Peloponnese dep. Informatics and Telecommunications.
-See [License](License), [CREDITS](Credits), [User guide](IRM_Project1_Report.pdf) for more
+See [License](LICENSE), [CREDITS](Credits), [User guide](IRM_Project1_Report.pdf) for more
