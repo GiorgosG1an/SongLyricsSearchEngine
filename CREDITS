@@ -31,10 +31,36 @@ Python Libraries Used:
 
 This project incorporates and utilizes the following Python libraries:
 
+- JCC (version 3.11)
+  - Authors: Andi Vajda
+  - License: Apache Software License
 
-- Pandas (version M.N.O)
-  - Authors: Wes McKinney and contributors
-  - License: BSD 3-Clause "New" or "Revised" License
+- pip (version 22.0.4)
+  - Authors: The pip developers
+  - License: MIT License (MIT)
+
+- nltk (version 3.8.1)
+  - Authors: NLTK Team
+  - License: Apache Software License (Apache License, Version 2.0)
+  
+- Pandas (version 2.1.4)
+  - Authors: WThe Pandas Development Team
+  - License: BSD License (BSD 3-Clause License Copyright (c) 2008-2011, 
+  			 AQR Capital Management, LLC, Lambda Foundry, Inc. and...)
+  			 
+- regex (version 2023.12.25)
+  - Authors: Matthew Barnett
+  - License: Apache Software License (Apache Software License)
+
+
+- beautifulsoup4 (version 4.12.2)
+  - Authors: Leonard Richardson
+  - License: MIT License
+  
+- urllib3 (version 2.1.0)
+  - Authors: Andrey Petrov
+  - License: MIT License
+
 
 Please refer to the respective documentation and license files of these libraries for detailed information on their authors, licenses, and terms of use.
 
